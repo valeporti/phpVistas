@@ -1,1 +1,5 @@
 [25-Jul-2017 05:15:03 UTC] PHP Fatal error:  Invalid view: login_form.php in /home/ubuntu/workspace/vistas/includes/helpers.php on line 154
+[26-Jul-2017 02:47:09 UTC] PHP Fatal error:  Uncaught Error: Class 'CS50' not found in /home/ubuntu/workspace/vistas/public/login.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/login.php on line 27
