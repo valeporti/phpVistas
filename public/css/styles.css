@@ -6,7 +6,9 @@
  *
  * Global CSS.
  */
-
+body {
+    background-color: gray;
+}
 .container
 {
     /* center contents */

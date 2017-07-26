@@ -3,3 +3,6 @@
 Stack trace:
 #0 {main}
   thrown in /home/ubuntu/workspace/vistas/public/login.php on line 27
+[26-Jul-2017 04:53:14 UTC] PHP Fatal error:  Invalid view: apology.php in /home/ubuntu/workspace/vistas/includes/helpers.php on line 154
+[26-Jul-2017 04:55:48 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13) in /home/ubuntu/workspace/vistas/includes/config.php on line 19
+[26-Jul-2017 05:11:17 UTC] PHP Fatal error:  Invalid view: apology.php in /home/ubuntu/workspace/vistas/includes/helpers.php on line 154
