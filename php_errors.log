@@ -6,3 +6,587 @@ Stack trace:
 [26-Jul-2017 04:53:14 UTC] PHP Fatal error:  Invalid view: apology.php in /home/ubuntu/workspace/vistas/includes/helpers.php on line 154
 [26-Jul-2017 04:55:48 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13) in /home/ubuntu/workspace/vistas/includes/config.php on line 19
 [26-Jul-2017 05:11:17 UTC] PHP Fatal error:  Invalid view: apology.php in /home/ubuntu/workspace/vistas/includes/helpers.php on line 154
+[28-Jul-2017 01:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apologize() in /home/ubuntu/workspace/vistas/public/login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/login.php on line 3
+[28-Jul-2017 01:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apologize() in /home/ubuntu/workspace/vistas/public/login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/login.php on line 3
+[28-Jul-2017 01:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apologize() in /home/ubuntu/workspace/vistas/public/login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/login.php on line 3
+[28-Jul-2017 01:44:31 UTC] PHP Notice:  Use of undefined constant console - assumed 'console' in /home/ubuntu/workspace/vistas/public/tienda.php on line 2
+[28-Jul-2017 01:44:31 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/ubuntu/workspace/vistas/public/tienda.php on line 2
+[28-Jul-2017 01:44:48 UTC] PHP Notice:  Use of undefined constant console - assumed 'console' in /home/ubuntu/workspace/vistas/public/tienda.php on line 2
+[28-Jul-2017 01:44:48 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /home/ubuntu/workspace/vistas/public/tienda.php on line 2
+[28-Jul-2017 01:45:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function console_log() in /home/ubuntu/workspace/vistas/public/tienda.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 2
+[28-Jul-2017 01:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function console_log() in /home/ubuntu/workspace/vistas/public/tienda.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 2
+[28-Jul-2017 01:49:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apologize() in /home/ubuntu/workspace/vistas/public/tienda.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 01:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apologize() in /home/ubuntu/workspace/vistas/public/tienda.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 01:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apologize() in /home/ubuntu/workspace/vistas/public/tienda.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 01:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apologize() in /home/ubuntu/workspace/vistas/public/tienda.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 01:53:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apologize() in /home/ubuntu/workspace/vistas/public/tienda.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 01:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/ubuntu/workspace/vistas/includes/config.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/vistas/public/tienda.php(5): require()
+#1 {main}
+  thrown in /home/ubuntu/workspace/vistas/includes/config.php on line 22
+[28-Jul-2017 02:04:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/ubuntu/workspace/vistas/includes/config.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/vistas/public/tienda.php(5): require()
+#1 {main}
+  thrown in /home/ubuntu/workspace/vistas/includes/config.php on line 22
+[28-Jul-2017 02:10:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pollo() in /home/ubuntu/workspace/vistas/includes/config.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/vistas/public/tienda.php(5): require()
+#1 {main}
+  thrown in /home/ubuntu/workspace/vistas/includes/config.php on line 22
+[28-Jul-2017 02:20:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function aplogize() in /home/ubuntu/workspace/vistas/includes/config.php:22
+Stack trace:
+#0 /home/ubuntu/workspace/vistas/public/tienda.php(5): require()
+#1 {main}
+  thrown in /home/ubuntu/workspace/vistas/includes/config.php on line 22
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:07 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:08 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:09 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:10 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:10 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:10 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:10 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:10 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:10 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:10 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:10 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:10 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:10 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:15 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:16 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:17 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:17 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:17 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:17 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:47 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: file in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:25:48 UTC] PHP Notice:  Undefined variable: line in /home/ubuntu/workspace/vistas/includes/helpers.php on line 125
+[28-Jul-2017 02:40:59 UTC] PHP Warning:  require(helpers.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/vistas/public/tienda.php on line 5
+[28-Jul-2017 02:40:59 UTC] PHP Fatal error:  require(): Failed opening required 'helpers.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/vistas/public/tienda.php on line 5
+[28-Jul-2017 02:41:05 UTC] PHP Warning:  require(helpers.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/vistas/public/tienda.php on line 5
+[28-Jul-2017 02:41:05 UTC] PHP Fatal error:  require(): Failed opening required 'helpers.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/vistas/public/tienda.php on line 5
+[28-Jul-2017 03:18:39 UTC] PHP Fatal error:  Uncaught Error: Class 'CS50' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 03:22:23 UTC] PHP Fatal error:  Uncaught Error: Class 'CS50' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 03:22:31 UTC] PHP Fatal error:  Uncaught Error: Class 'CS50' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 03:44:20 UTC] PHP Fatal error:  Uncaught Error: Class 'CS50' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:08:45 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:09:21 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:11:40 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:13:15 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:16:53 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:41:46 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:45:02 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:46:33 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:55:44 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:56:20 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:56:28 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:57:31 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:58:11 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 04:58:31 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:10:53 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:10:53 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:18:13 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:18:13 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:19:59 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:19:59 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:21:20 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:21:20 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:22:54 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:22:54 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:23:36 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:23:36 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:26:25 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:26:25 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:26:47 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:26:47 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:28:49 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:28:49 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:30:04 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:30:04 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:30:37 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:30:37 UTC] PHP Fatal error:  Uncaught Error: Class 'CS50' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:31:10 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:31:10 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:31:29 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:31:29 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:31:42 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:31:42 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:36:18 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:36:18 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:36:39 UTC] PHP Notice:  Undefined variable: IP in /home/ubuntu/workspace/vistas/public/tienda.php on line 3
+[28-Jul-2017 05:36:39 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:38:54 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 8
+[28-Jul-2017 05:39:07 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 8
+[28-Jul-2017 05:41:09 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 8
+[28-Jul-2017 05:41:19 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 8
+[28-Jul-2017 05:42:47 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 8
+[28-Jul-2017 05:43:15 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 8
+[28-Jul-2017 05:43:24 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 8
+[28-Jul-2017 05:46:21 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:46:37 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:47:21 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:49:02 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 05:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 9
+[28-Jul-2017 06:34:08 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 8
+[28-Jul-2017 06:34:22 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 8
+[28-Jul-2017 06:39:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/ubuntu/workspace/vistas/public/tienda.php on line 13
+[28-Jul-2017 06:40:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/ubuntu/workspace/vistas/public/tienda.php on line 13
+[28-Jul-2017 06:41:35 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/ubuntu/workspace/vistas/public/tienda.php on line 20
+[28-Jul-2017 06:42:10 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/ubuntu/workspace/vistas/public/tienda.php on line 20
+[28-Jul-2017 06:42:36 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/ubuntu/workspace/vistas/public/tienda.php on line 20
+[28-Jul-2017 06:46:59 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/vistas/public/tienda.php on line 22
+[28-Jul-2017 06:47:29 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/vistas/public/tienda.php on line 22
+[28-Jul-2017 06:49:15 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/vistas/public/tienda.php on line 23
+[28-Jul-2017 06:49:57 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/vistas/public/tienda.php on line 23
+[28-Jul-2017 06:50:26 UTC] PHP Notice:  Undefined index: _message in /home/ubuntu/workspace/vistas/public/tienda.php on line 23
+[28-Jul-2017 06:50:40 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/vistas/public/tienda.php on line 23
+[28-Jul-2017 06:52:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/vistas/public/tienda.php on line 13
+[28-Jul-2017 06:55:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/vistas/public/tienda.php on line 13
+[28-Jul-2017 06:55:44 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 26
+[28-Jul-2017 06:56:02 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 26
+[28-Jul-2017 06:56:11 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 26
+[28-Jul-2017 06:56:45 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 26
+[28-Jul-2017 06:56:52 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/ubuntu/workspace/vistas/public/tienda.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/vistas/public/tienda.php on line 26
+[28-Jul-2017 06:58:43 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/ubuntu/workspace/vistas/public/tienda.php on line 23
+[28-Jul-2017 06:59:17 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/vistas/public/tienda.php on line 23
+[28-Jul-2017 06:59:33 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/vistas/public/tienda.php on line 23
+[28-Jul-2017 06:59:55 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/vistas/public/tienda.php on line 23
+[28-Jul-2017 07:04:30 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/vistas/public/tienda.php on line 23
+[28-Jul-2017 07:14:25 UTC] PHP Fatal error:  Invalid view: tienda_form in /home/ubuntu/workspace/vistas/includes/helpers.php on line 156
+[28-Jul-2017 07:17:15 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:17:15 UTC] PHP Notice:  Undefined variable: mysqli_fetch_assoc in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:17:15 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ubuntu/workspace/vistas/views/tienda_form.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/vistas/includes/helpers.php(148): require()
+#1 /home/ubuntu/workspace/vistas/public/tienda.php(27): render('tienda_form.php', Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:17:57 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:17:57 UTC] PHP Notice:  Undefined variable: mysqli_fetch_assoc in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:17:57 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ubuntu/workspace/vistas/views/tienda_form.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/vistas/includes/helpers.php(148): require()
+#1 /home/ubuntu/workspace/vistas/public/tienda.php(27): render('tienda_form.php', Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:18:54 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:18:54 UTC] PHP Notice:  Undefined variable: mysqli_fetch_assoc in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:18:54 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ubuntu/workspace/vistas/views/tienda_form.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/vistas/includes/helpers.php(148): require()
+#1 /home/ubuntu/workspace/vistas/public/tienda.php(28): render('tienda_form.php', Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:19:11 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:19:11 UTC] PHP Notice:  Undefined variable: mysqli_fetch_assoc in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:19:11 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ubuntu/workspace/vistas/views/tienda_form.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/vistas/includes/helpers.php(148): require()
+#1 /home/ubuntu/workspace/vistas/public/tienda.php(29): render('tienda_form.php', Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:21:24 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:21:24 UTC] PHP Notice:  Undefined variable: mysqli_fetch_assoc in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:21:24 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ubuntu/workspace/vistas/views/tienda_form.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/vistas/includes/helpers.php(148): require()
+#1 /home/ubuntu/workspace/vistas/public/tienda.php(29): render('tienda_form.php', Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:21:52 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:21:52 UTC] PHP Notice:  Undefined variable: mysqli_fetch_assoc in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:21:52 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ubuntu/workspace/vistas/views/tienda_form.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/vistas/includes/helpers.php(148): require()
+#1 /home/ubuntu/workspace/vistas/public/tienda.php(29): render('tienda_form.php', Array)
+#2 {main}
+  thrown in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 15
+[28-Jul-2017 07:23:05 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:25:13 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:46:30 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:46:34 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:46:37 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:46:42 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:47:11 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:48:16 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:48:17 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:48:21 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:48:22 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:48:23 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:49:01 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:49:03 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:49:03 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:49:04 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:49:47 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:50:02 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:50:10 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:51:09 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:51:21 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:53:14 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:53:37 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:53:55 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:53:58 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:54:00 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:54:01 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:54:38 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:55:44 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:56:14 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:56:50 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:57:32 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:57:40 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:58:30 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:58:30 UTC] PHP Notice:  Undefined index: tienda in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 20
+[28-Jul-2017 07:58:30 UTC] PHP Notice:  Undefined index: tienda in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 20
+[28-Jul-2017 07:59:23 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:59:25 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:59:25 UTC] PHP Notice:  Undefined index: tienda in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 20
+[28-Jul-2017 07:59:25 UTC] PHP Notice:  Undefined index: tienda in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 20
+[28-Jul-2017 07:59:34 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:59:36 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:59:36 UTC] PHP Notice:  Undefined index: tienda in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 20
+[28-Jul-2017 07:59:36 UTC] PHP Notice:  Undefined index: tienda in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 20
+[28-Jul-2017 07:59:40 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 07:59:40 UTC] PHP Notice:  Undefined index: tienda in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 20
+[28-Jul-2017 07:59:40 UTC] PHP Notice:  Undefined index: tienda in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 20
+[28-Jul-2017 08:00:19 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 8
+[28-Jul-2017 08:00:19 UTC] PHP Notice:  Undefined index: tienda in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 20
+[28-Jul-2017 08:00:19 UTC] PHP Notice:  Undefined index: tienda in /home/ubuntu/workspace/vistas/views/tienda_form.php on line 20
+[28-Jul-2017 08:19:25 UTC] PHP Notice:  Undefined index: venta in /home/ubuntu/workspace/vistas/views/deta_form.php on line 16
+[28-Jul-2017 08:19:25 UTC] PHP Notice:  Undefined index: venta in /home/ubuntu/workspace/vistas/views/deta_form.php on line 16
+[28-Jul-2017 08:46:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user '1'@'localhost' (using password: YES) in /home/ubuntu/workspace/vistas/public/tienda.php on line 13

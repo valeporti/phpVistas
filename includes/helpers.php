@@ -8,7 +8,7 @@
      * Helper functions.
      */
 
-    require_once("config.php");
+    //require_once("config.php");
 
     /**
      * Apologizes to user with message.
@@ -122,10 +122,12 @@
      */
     function redirect($location)
     {
+        
         if (headers_sent($file, $line))
         {
             trigger_error("HTTP headers already sent at {$file}:{$line}", E_USER_ERROR);
         }
+        
         header("Location: {$location}");
         exit;
     }

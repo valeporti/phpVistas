@@ -10,9 +10,9 @@
         <link href="/css/styles.css" rel="stylesheet"/>
 
         <?php if (isset($title)): ?>
-            <title>C$50 Finance: <?= htmlspecialchars($title) ?></title>
+            <title>Vistas: <?= htmlspecialchars($title) ?></title>
         <?php else: ?>
-            <title>C$50 Finance</title>
+            <title>Vistas</title>
         <?php endif ?>
 
         <!-- https://jquery.com/ -->
@@ -26,6 +26,8 @@
     </head>
 
     <body>
+        
+        <h1>Ventas</h1>
 
         <div class="container">
 
@@ -33,16 +35,15 @@
                 <div>
                     
                 </div>
-                <?php if (!empty($_SESSION["id"])): ?>
+                <?php // if (!empty($_SESSION["id"])): ?>
                     <ul class="nav nav-pills">
-                        <li><a href="quote.php">Quote</a></li>
-                        <li><a href="buy.php">Buy</a></li>
-                        <li><a href="sell.php">Sell</a></li>
-                        <li><a href="history.php">History</a></li>
-                        <li><a href="profile.php">Profile</a></li>
-                        <li><a href="logout.php"><strong>Log Out</strong></a></li>
+                        <li><a href="tienda.php">Tienda</a></li>
+                        <li><a href="prod.php">Producto</a></li>
+                        <li><a href="cliente.php">Cliente</a></li>
+                        <li><a href="venta.php">Ventas</a></li>
+                        <li><a href="deta.php">Detalle</a></li>
                     </ul>
-                <?php endif ?>
+                <?php //endif ?>
             </div>
 
             <div id="middle">
