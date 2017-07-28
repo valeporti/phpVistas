@@ -4,9 +4,9 @@
     require_once("../includes/helpers.php"); 
    // require("../vendor/library50/CS50.php");
     $servername = getenv('IP');
-    $username = 'yzpx9te1i6qz1yyd';
-    $password = 'hw1ptvdjnrf1po8n';
-    $database = 'yv1rh8xol4r27t8e';
+    $username = getenv('DBusername');
+    $password = getenv('DBpassword');
+    $database = getenv('DBname');
     $dbport = 3306;
     echo '<script>console.log(' . $servername . ')</script>';
     echo '<script>console.log(' . $username . ')</script>';
