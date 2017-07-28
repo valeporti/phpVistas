@@ -8,7 +8,10 @@
     $password = 'hw1ptvdjnrf1po8n';
     $database = 'yv1rh8xol4r27t8e';
     $dbport = 3306;
-    echo '<script>console.log("antes deb")</script>';
+    echo '<script>console.log(' . $servername . ')</script>';
+    echo '<script>console.log(' . $username . ')</script>';
+    echo '<script>console.log(' . $password . ')</script>';
+    echo '<script>console.log(' . $database . ')</script>';
     // Create connection
     $db = new mysqli($servername, $username, $password, $database, $dbport);
     echo '<script>console.log("depsués DB")</script>';
